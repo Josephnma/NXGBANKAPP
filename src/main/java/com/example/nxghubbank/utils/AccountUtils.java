@@ -29,6 +29,5 @@ public class AccountUtils {
         StringBuilder accountNumber = new StringBuilder();
 
         return  accountNumber.append(year).append(randomNumber).toString();
-
     }
 }
